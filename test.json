@@ -1,7 +1,20 @@
+[
 {
     "Nama":"Muhammad Abu Mujahid",
     "tempat lahir":"Palembang",
     "tanggal lahir":"07 April 1994",
+    "umur":27,
     "pekerjaan":"Web Programmer"
     
+},
+
+{
+    "Nama":"Mujahid",
+    "tempat lahir":"Padang",
+    "tanggal lahir":"29 September 2019",
+    "umur":2,
+    "pekerjaan":"Tholibul Ilmi"
+    
 }
+
+]
